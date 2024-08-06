@@ -8,7 +8,7 @@ The format used to name the datasets follow the convention "YYYY-MM-DD". These f
 1. 2024-06-16 | Single flight that ended in crash.
 2. 2024-06-25 | Single flight that ended in crash.
 3. 2024-06-29 | Single flight that ended in crash.
-4. 2024-07-07 | Three consecutive successful flights.
+4. 2024-07-07 | Three consecutive successful flights. (Not available in the repository due to the >100Mb file limit. Available upon request)
 
 Two different data adquisition applications were employed. Logs 1, 2 and 4 were recorded with [SensorLog v5.3](https://sensorlog.berndthomas.net/) and follow the "comma-separated-value" standard (csv) with a header that contains the following data:
 
