@@ -1,0 +1,19 @@
+name: tfg-gps-denied-navigation
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - pip
+  - python=3.10
+  - setuptools
+  - wheel
+  - poppler
+  - pip:
+    - numpy
+    - pandas
+    - opencv-python
+    - matplotlib
+    - seaborn
+    - notebook 
