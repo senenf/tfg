@@ -6,6 +6,7 @@ This repository is structured as follows:
 * Data Adquisition: contains raw flight logs and images obtained from testing aircraft.
 * Data Cleaning: contains chopped and pre-processed flight logs for each of the performed flights
 * Data Analysis: contains the python notebooks used to extract useful metrics and information from the data
+* Manufacturing: contains all the 3D files and laser cutting boards in order to manufacture the aerial platform "RoadRunner" for testing different visual-based navigation solutions.
 
 
 
