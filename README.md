@@ -3,8 +3,8 @@ Final Bachelor Thesis | Iago Senén Fernández García |  Aerospace Engineering 
 
 This repository is structured as follows:
 
-* Data Adquisition: contains original flight logs and images used for the development of the thesis
-* Data Cleaning: contains pre-processed flight logs and images used for the development of the thesis
+* Data Adquisition: contains raw flight logs and images obtained from testing aircraft.
+* Data Cleaning: contains chopped and pre-processed flight logs for each of the performed flights
 * Data Analysis: contains the python notebooks used to extract useful metrics and information from the data
 
 
