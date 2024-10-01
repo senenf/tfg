@@ -1,7 +1,7 @@
 # Autonomous Navigation of Lightweight UAVs in GPS-denied environments
 Final Bachelor Thesis | Iago Senén Fernández García |  Aerospace Engineering UC3M
 
-Obtained calification: 10/10
+Grade: 10/10
 
 ## Structure of this repo
 This repository is structured as follows:
