@@ -10,7 +10,7 @@ This repository is structured as follows:
 * **Data Cleaning**: contains chopped and pre-processed flight logs for each of the performed flights
 * **Data Analysis** : contains the python notebooks used to extract useful metrics and information from the data
 * **Manufacturing**: contains all the 3D files and laser cutting boards in order to manufacture the aerial platform "RoadRunner" for testing different visual-based navigation solutions. 
-> To Be Completed, some missing files. I want to upload them so that they are ready to cut/print.
+> ⚠️ To Be Completed, some missing files. I want to upload them so that they are ready to cut/print. ⚠️
 * The Original PDF submitted for grading. 
 
 ## How to use this repo
