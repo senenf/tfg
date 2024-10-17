@@ -1,5 +1,5 @@
 # Autonomous Navigation of Lightweight UAVs in GPS-denied environments
-Final Bachelor Thesis | Iago Senén Fernández García |  Aerospace Engineering UC3M
+🎓 Final Bachelor Thesis | Iago Senén Fernández García |  Aerospace Engineering UC3M 
 
 Grade: 10/10, nominated to honours (MH)
 
